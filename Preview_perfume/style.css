@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(30, 38%, 92%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 120px;
+  
+}
+.container{
+    position: relative;
+    width: 370px;
+    height: 500px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 0  10px  10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    padding: 30px 40px;
+    
+}
+h3, .texto{
+    font-family:"Montserrat", sans-serif;
+    font-weight: 200;
+    font-size: 14px;
+}
+h1{
+    color:hsl(158, 36%, 37%);
+}
+.perfume{
+    color: #000;
+    font-family: "Fraunces", serif;
+}
+img{
+    width: 370px;
+    height: 500px;
+    border-radius: 10px 0 0 10px;
+}
+button{
+    width: 70%;
+    height: 40px;
+    background-color:hsl(158, 36%, 37%);
+    border: none;
+    border-radius: 10px;
+    font-family:"Montserrat", sans-serif ;
+    font-weight: 600;
+    color: #fff;
+}
