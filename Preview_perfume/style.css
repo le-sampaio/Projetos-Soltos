@@ -17,8 +17,8 @@ body{
 }
 .container{
     position: relative;
-    width: 370px;
-    height: 500px;
+    width: 280px;
+    height: 420px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 0  10px  10px 0;
     display: flex;
@@ -30,27 +30,58 @@ body{
 h3, .texto{
     font-family:"Montserrat", sans-serif;
     font-weight: 200;
-    font-size: 14px;
+    font-size: 12px;
+    line-height: 20px;
+}
+h3{
+    letter-spacing: 5px;
+    padding-bottom: 20px;
 }
 h1{
     color:hsl(158, 36%, 37%);
+    font-family: "Fraunces", serif;
+    padding-bottom: 20px;
 }
+
 .perfume{
     color: #000;
     font-family: "Fraunces", serif;
+    line-height: 30px;
+    padding-bottom: 22px;
+}
+.texto{
+    padding-bottom: 10px;
+}
+.valor_menor{
+    font-family:"Montserrat", sans-serif;
+    font-size: 11px;
+    text-decoration: line-through;
+    position: relative;
+    top:26px;
+    left: 145px;
 }
 img{
-    width: 370px;
-    height: 500px;
+    width: 280px;
+    height: 420px;
     border-radius: 10px 0 0 10px;
 }
 button{
-    width: 70%;
+    width: 105%;
     height: 40px;
     background-color:hsl(158, 36%, 37%);
     border: none;
-    border-radius: 10px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
     font-family:"Montserrat", sans-serif ;
     font-weight: 600;
     color: #fff;
+}
+button img{
+    width: 15px;
+    height: 15px;
+    color: #fff;
+
 }
