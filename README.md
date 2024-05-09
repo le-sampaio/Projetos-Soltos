@@ -11,4 +11,4 @@
 </ul>
 
 <p>Vizualização da tela:</p>
-<img src="Preview_perfume\img\print_tela.png" style: width:25px heigth:25px>
+<img src="Preview_perfume\img\print_tela.png">
