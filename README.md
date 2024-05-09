@@ -1,8 +1,8 @@
 <h1>Nessa pasta estão algumas telas simples usando HTML e CSS.</h1>
 
-<h1>Parfume Gabrielle Chanel</h1>
+<h1>Preview_perfume</h1>
 
-<p>Tela simples com preview de um perfume da Chanel.</p>
+<p>Tela simples com preview do perfume Gabrielle da Chanel.</p>
 
 <h2>O que foi usado:</h2>
 <ul>
