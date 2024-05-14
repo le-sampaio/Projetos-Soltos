@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(30, 54%, 90%);   
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    padding: 55px;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    height: 970px;
+    width: 470px;
+    font-size: 16px;
+}
+
+.title,.ingredientes, .instructions, .nutrion{
+    font-family: "Young Serif",serif ;
+    padding: 10px 20px 25px 30px;
+}
+
+.under-title, .txt-nutrition{
+    font-family: "Outfit", sans-serif;
+    font-size: 10px;
+    padding: 10px 20px 25px 30px;
+}
+
+.lista-1, .list-2, .list-3{
+    font-family: "Outfit", sans-serif;
+    font-size: 10px;
+    padding: 10px 40px 25px 45px;
+}
+
+.preparation-box{
+    font-family: "Young Serif",serif ;
+    font-size: 15px;
+    padding: 20px 30px -3px 30px;
+}
+
+.preparation-box, .lista-1{
+    background-color: hsl(330, 100%, 98%);
+    margin: 0 30px 0 30px;
+    line-height: 25px;
+}
