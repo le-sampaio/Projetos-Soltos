@@ -26,3 +26,13 @@
 <p>Vizualização da tela:</p>
 <img src="Cardapio\img\cardapio.png">
 
+<h1>Social links profile</h1>
+<p>Esse desafio do FrontEnd Mentor era para fazer um profile onde há links para as redes sociais de uma pessoa.</p>
+<h2>Foi usado:</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+<img src="">
+
+
