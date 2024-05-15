@@ -33,6 +33,6 @@
 <li>HTML</li>
 <li>CSS</li>
 </ul>
-<img src="">
+<img src="Social_links/img/social_link_profile.png" alt="social_link_profile">
 
 
