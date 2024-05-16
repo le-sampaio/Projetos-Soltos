@@ -40,6 +40,6 @@
 <h2>O que foi usado:</h2>
 <ul><li>HTML</li><li>CSS</li></ul>
 <p>Vizualizar o projeto:</p>
-<img src="./img/preview_blog.png" alt="preview blog">
+<img src="Blog preview/img/preview_blog.png" alt="preview blog">
 
 
