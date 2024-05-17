@@ -35,4 +35,11 @@
 </ul>
 <img src="Social_links/img/social_link_profile.png" alt="social_link_profile">
 
+<h1>Blog Preview</h1>
+<p>Esse desafio da FrontEnd Mentor era para fazer uma preview de um blog.</p>
+<h2>O que foi usado:</h2>
+<ul><li>HTML</li><li>CSS</li></ul>
+<p>Vizualizar o projeto:</p>
+<img src="Blog preview/img/preview_blog.png" alt="preview blog">
+
 
